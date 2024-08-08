@@ -1,0 +1,19 @@
+body {
+  padding: 20px;
+  background-image: url('/images/background-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+}
+
+.form-style{
+    height: 600px;
+}
+
+.border.border-4.rounded-3.p-5{
+    background-image: url('/images/background-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;  
+    box-shadow: 10px 10px 10px 10px black;
+}
